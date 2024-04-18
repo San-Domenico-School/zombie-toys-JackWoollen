@@ -1057,7 +1057,7 @@ GameObject:
   - component: {fileID: 530427044}
   - component: {fileID: 530427047}
   - component: {fileID: 530427046}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2174,7 +2174,7 @@ GameObject:
   - component: {fileID: 1195059396}
   - component: {fileID: 1195059399}
   - component: {fileID: 1195059398}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3451,7 +3451,7 @@ GameObject:
   - component: {fileID: 2100211340}
   - component: {fileID: 2100211339}
   - component: {fileID: 2100211342}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3585,7 +3585,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2112607544}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
